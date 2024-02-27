@@ -1,11 +1,11 @@
-### Salsa Tecnology
-# Teste Prático para a Vaga de Analista de Dados:
+# Salsa Tecnology
+## Teste Prático para a Vaga de Analista de Dados:
 Descrição do Teste:
 Você está encarregado de criar uma solução de gerenciamento de dados e relatórios para uma
 empresa fictícia de apostas esportivas. Siga as etapas abaixo e apresente seus resultados em
 um dashboard no Apache Superset:
 
-# 1. Banco de Dados Relacional:
+### 1. Banco de Dados Relacional:
 Crie uma base de dados relacional em um sistema de gerenciamento de banco de
 dados de sua escolha (por exemplo, MySQL, PostgreSQL, SQL Server).
 Defina as seguintes tabelas com campos relevantes:
@@ -17,7 +17,7 @@ Popular essas tabelas com valores fictícios, criando um conjunto de dados de ta
 suficiente para gerar indicadores significativos. Certifique-se de que os dados sejam
 realistas e variados.
 
-# 2. ETL (Extract, Transform, Load):
+### 2. ETL (Extract, Transform, Load):
 Utilize uma ferramenta de ETL de sua escolha (por exemplo, Apache NiFi, Talend,
 Azure Data Factory) para realizar as seguintes tarefas:
     ○ Extrair dados das tabelas de origem no banco de dados relacional.
@@ -26,7 +26,7 @@ para criar dados agregados significativos.
     ○ Carregar os dados transformados em uma nova base de dados, que pode ser no
 mesmo servidor ou em outro local.
 
-# 3. Desenvolvimento de Dashboards:
+### 3. Desenvolvimento de Dashboards:
 Utilize, preferencialmente, o Apache Superset para criar um ou mais dashboards que
 apresentem indicadores e gráficos relevantes com base nos dados agregados. Caso
 não consiga desenvolver no Superset você pode utilizar qualquer outra ferramenta do
@@ -40,7 +40,7 @@ possível, painéis de controle interativos.
 Critérios de Avaliação:
 
 ## Os candidatos serão avaliados com base nos seguintes critérios:
-# Estrutura e Organização dos Dados: A qualidade da estrutura das tabelas de banco de
+### Estrutura e Organização dos Dados: A qualidade da estrutura das tabelas de banco de
 dados e a quantidade de dados fictícios gerados.
 Qualidade do Fluxo ETL: A eficácia das etapas de extração, transformação e carga,
 bem como a clareza e organização do processo ETL.
@@ -49,7 +49,7 @@ gráficos no dashboard.
 Adaptação ao Apache Superset: A capacidade do candidato de utilizar o Apache
 Superset para criar dashboards atraentes e informativos.
 
-# Entrega do teste
+### Entrega do teste
 O candidato deve fornecer um link para acesso ao dashboard, e, se possível, disponibilizar
 acesso às bases de dados e ao fluxo ETL. Se não for possível fornecer acesso direto, essa
 parte pode ser entregue por meio de uma breve documentação que explique o processo. A
